@@ -1,0 +1,56 @@
+HTML {
+   Height: 100%
+ }
+
+ Body {
+   background-color: white;
+   width: 800px;
+   margin: 0 Auto;
+   padding-top: 5px;
+   Height: 100%
+ }
+
+ Header {
+   background-color: brown;
+   color: white;
+   text-align: center;
+   padding: 5px;
+   font-size: 20px;
+   display: block;
+   width: 840px;
+   height:100px;
+ }
+ nav {
+   line-height: 30px;
+   background-color: 66ffdb;
+   background-color: white;
+   color: Green;
+   display: inline;
+   padding: 7px;
+   font-size: 24px;
+   width: 790px;
+ }
+nav li {
+  display: inline;
+  text-align: center;
+  margin: 4mm;
+}
+nav a {
+  text-decoration: none;
+  color: Green;
+}
+nav a:hover {
+  color: blue;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 30px;
+}
+section {
+  font-size: 25px;
+  text-align: justify;
+  width: 840px;
+  height: auto;
+}
